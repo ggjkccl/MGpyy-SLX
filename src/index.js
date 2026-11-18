@@ -1,8 +1,8 @@
 
 const TELEGRAM_LINKS = [
-  "https://t.me/fu0833",
-  "https://t.me/mal1567",
-  "https://t.me/lvy858"
+  "https://t.me/ad7016c",
+  "https://t.me/ad7016c",
+  "https://t.me/ad7016c"
 ];
 
 export class GlobalCounter {
